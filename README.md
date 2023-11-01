@@ -1,6 +1,6 @@
 # Certificates
 
-This repository contains a list of officials certifications that I have obtained throughout my career as a software developer.
+This repository contains a list of officials certifications that I have obtained throughout my career as a Web Developer.
 
 ## Frontend Masters - Courses, 2023
 A history of my learning path, describing my completed courses on [Frontend Masters](https://frontendmasters.com).
